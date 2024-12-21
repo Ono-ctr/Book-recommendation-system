@@ -63,15 +63,6 @@ source .streamlit_venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-
-#### 🧪 Test Streamlit Installation 👨🏽‍🔧👩🏽‍🔧
-You can check if Streamlit is installed correctly and run a sample app with the following command:
-```bash
-streamlit hello
-```
-This should open a Streamlit web app in your default web browser. 
-
-
 ## License
 [The MIT license](LICENSE)
 
