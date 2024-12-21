@@ -14,9 +14,6 @@ This repository contains the implementation of a Book Recommendation System buil
 	3.	View real-time recommendations and insights on user interactions.
 
 
-- **streamlit+API_intro**: A branch with a working Streamlit application with a notebook giving a quick introduction to API and JSON.
-
-
 ### Environment 🌀 and Installation 👩🏽‍🔧👨🏽‍🔧
 #### Prerequisite
 + Python 3.11.3 or above up to 3.11.6 ([pyenv](https://github.com/pyenv/pyenv#simple-python-version-management-pyenv) for Python Version Management is used but feel free to use any other tool)
