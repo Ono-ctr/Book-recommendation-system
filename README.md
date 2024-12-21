@@ -19,7 +19,7 @@ This repository contains the implementation of a Book Recommendation System buil
 
 ### Environment 🌀 and Installation 👩🏽‍🔧👨🏽‍🔧
 #### Prerequisite
-+ Python 3.11.3 or above up to 3.11.6 (We will use [pyenv](https://github.com/pyenv/pyenv#simple-python-version-management-pyenv) for Python Version Management but feel free to use any other tool)
++ Python 3.11.3 or above up to 3.11.6 ([pyenv](https://github.com/pyenv/pyenv#simple-python-version-management-pyenv) for Python Version Management is used but feel free to use any other tool)
 + Virtual environment (The module venv from python is used but you can use any other tool)
 
 
